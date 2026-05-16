@@ -88,3 +88,21 @@ Sui一键发币：https://sui.gtokentool.com/
 <a href="https://sol.gtokentool.com/zh-CN/batchTool/batchTransfer/ManyToManyTransfer">多对多转账</a>：批量钱包转账 | 快速多钱包间资金转账
 
 <a href="https://sol.gtokentool.com/zh-CN/batchTool/gather">批量归集</a>：批量归集 | 多账户资金回收 | 高效资金管理
+
+# 钱包管理
+
+<a href="https://sol.gtokentool.com/zh-CN/walletManagement/batchCreateWallet">批量创建钱包</a>：批量创建钱包 | 快速安全生成多账户
+
+<a href="https://sol.gtokentool.com/zh-CN/walletManagement/LiangHao">靓号钱包</a>：创建靓号钱包 | 打造独特身份标识
+
+<a href="https://sol.gtokentool.com/zh-CN/walletManagement/migrateAssets">迁移资产</a>：迁移资产 | 高效整合钱包资金
+
+<a href="https://sol.gtokentool.com/zh-CN/walletManagement/rentRecovery">租金回收</a>：租金回收 | 释放无用账户
+
+<a href="https://sol.gtokentool.com/zh-CN/walletManagement/batchRentRecovery">批量租金回收</a>：Solana 关闭账户 | 批量回收账户租金
+
+<a href="https://sol.gtokentool.com/zh-CN/walletManagement/swapWalletAllToken">一键清仓</a>：一键清仓 | 高效管理钱包
+
+<a href="https://sol.gtokentool.com/zh-CN/walletManagement/relayTransfer">SOL 中转转账</a>：SOL 中转转账 | 隐藏转账痕迹
+
+<a href="https://sol.gtokentool.com/zh-CN/walletManagement/WSOL">WSOL 兑换</a>：WSOL 兑换 | 快捷兑换
