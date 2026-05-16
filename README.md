@@ -106,3 +106,17 @@ Sui一键发币：https://sui.gtokentool.com/
 <a href="https://sol.gtokentool.com/zh-CN/walletManagement/relayTransfer">SOL 中转转账</a>：SOL 中转转账 | 隐藏转账痕迹
 
 <a href="https://sol.gtokentool.com/zh-CN/walletManagement/WSOL">WSOL 兑换</a>：WSOL 兑换 | 快捷兑换
+
+# 流动性管理
+
+<a href="https://sol.gtokentool.com/zh-CN/liquidityManagement/CreatePool">创建流动性</a>：创建流动性 | 流动资金池
+
+<a href="https://sol.gtokentool.com/zh-CN/liquidityManagement/burnToken">燃烧流动性</a>：燃烧代币 | 燃烧流动性
+
+<a href="https://sol.gtokentool.com/zh-CN/liquidityManagement/remove">移除流动性</a>：移除流动性 | 0 延迟执行
+
+<a href="https://sol.gtokentool.com/zh-CN/liquidityManagement/createMarket">创建市场 ID</a>：OpenBook 创建市场 ID | 低费用创建市场 ID 工具
+
+<a href="https://sol.gtokentool.com/zh-CN/liquidityManagement/searchId">查询市场 ID：查询市场 ID | OpenBook 市场 ID 查询工具
+
+<a href="https://sol.gtokentool.com/zh-CN/liquidityManagement/batchRemove">批量移除流动性</a>：批量移除流动性 | PumpSwap 流动性管理
