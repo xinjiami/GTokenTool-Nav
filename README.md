@@ -12,6 +12,7 @@ Sui一键发币：https://sui.gtokentool.com/
 波场工具助手：https://tron.gtokentool.com/
 
 交流群: https://t.me/gtokentool
+<img src="https://github.com/xinjiami/GTokenTool-Nav/blob/main/Screenshot%20(2).png">
 # 代币机制
 <a href="https://www.gtokentool.com/tokenfactory">标准代币</a>：干净合约、方便上手、无税无功能、Ave检测全绿
 
@@ -55,3 +56,35 @@ Sui一键发币：https://sui.gtokentool.com/
 <a href="https://sol.gtokentool.com/zh-CN/presale/createPresale">创建符文</a>：创建符文 | Solana 预售工具
 
 <a href="https://sol.gtokentool.com/zh-CN/presale/managementPresale">管理符文</a>：管理符文 | Solana 预售管理工具
+
+# 市值
+
+<a href="https://sol.gtokentool.com/zh-CN/market/jupMarket">Jup 市值</a>：Jup 聚合交易 | 快速选择最佳路径
+
+<a href="https://sol.gtokentool.com/zh-CN/market/marketManagement">Raydium 市值</a>：Raydium 市值管理 | 多策略做市
+
+<a href="https://sol.gtokentool.com/zh-CN/market/jupMarket">Pump 市值</a>：Pump 市值管理 | 多策略做市
+
+# Pump
+
+<a href="https://sol.gtokentool.com/zh-CN/pump/bundle">Pump 开盘并买入</a>：Pump 开盘并买入 | Letsbonk 开盘并买入
+
+<a href="https://sol.gtokentool.com/zh-CN/pump/pumpMakerBuyers">Pump 新地址买入(↑Makers)</a>：全自动创建钱包地址 | 提升交易活跃度
+
+<a href="https://sol.gtokentool.com/zh-CN/pump/pumpHolderMaker">Pump 新地址买入(↑Holders)</a>：全自动创建钱包地址 | 提升持币地址数
+
+<a href="https://sol.gtokentool.com/zh-CN/pump/pumpBuy">Pump 一键买入</a>：Pump 捆绑买入 | 多地址批量买入 | 高效交易
+
+<a href="https://sol.gtokentool.com/zh-CN/pump/pumpMigrationAndBuy">Pump 迁移并买入</a>：Pump 迁移并买入 | 抢占底部筹码
+
+<a href="https://sol.gtokentool.com/zh-CN/pump/creatorFees">Pump 创作者奖励</a>：创作者奖励 | 一键领取 PumpFun / BonkFun / Raydium 创作者费用
+
+# 批量工具
+
+<a href="https://sol.gtokentool.com/zh-CN/batchTool/batchTransfer/SOL">批量转SOL</a>：批量转SOL | 高效安全
+
+<a href="https://sol.gtokentool.com/zh-CN/batchTool/batchTransfer/Token">批量转代币</a>：批量转账代币 | 快速分发
+
+<a href="https://sol.gtokentool.com/zh-CN/batchTool/batchTransfer/ManyToManyTransfer">多对多转账</a>：批量钱包转账 | 快速多钱包间资金转账
+
+<a href="https://sol.gtokentool.com/zh-CN/batchTool/gather">批量归集</a>：批量归集 | 多账户资金回收 | 高效资金管理
