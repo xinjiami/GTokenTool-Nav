@@ -164,3 +164,13 @@ Sui一键发币：https://sui.gtokentool.com/
 <a href="https://docs.gtokentool.com/sui/revoke-authority">Sui链放弃权限教程</a>：Sui代币放弃权限操作
 
 <a href="https://docs.gtokentool.com/sui/update-token">Sui代币管理教程</a>：学会使用PandaTool工具增发Sui代币
+
+# 服务费用
+
+<a href="https://docs.gtokentool.com/fu-wu-fei-yong">GTokenTool收费标准</a>：全网最具竞争力的低费用发币平台
+
+# 社交媒体
+
+Twitter：<a href="https://twitter.com/GTokenTool">https://twitter.com/GTokenTool</a>
+Youtobe：<a href="https://www.youtube.com/@GTokenTool">https://www.youtube.com/@GTokenTool</a>
+Telegram：<a href="https://t.me/gtokentool">https://t.me/gtokentool</a>
