@@ -142,3 +142,25 @@ Sui一键发币：https://sui.gtokentool.com/
 <a href="https://www.gtokentool.com/idov2">创建 IDO</a>：创建 IDO | 私募预售
 
 <a href="https://www.gtokentool.com/idov2/list">管理 IDO</a>：管理 IDO | 高效管理
+
+# TON链一键发币
+
+<a href="https://ton.gtokentool.com">TON发币官网</a>：全网最强的TON一键发币平台，支持在电报链创建代币
+
+<a href="https://docs.gtokentool.com/ton-jiao-cheng/ton-lian-yi-jian-fa-bi-jiao-cheng">TON发币教程</a>：全网最详细的TON发币教程，一分钟教会你在TON上发币
+
+<a href="https://docs.gtokentool.com/ton-jiao-cheng/ston.fi-sheng-cheng-liu-dong-xing-dai-bi-jiao-cheng">Ston.fi加池教程</a>：ston.fi是TON链上最大的DEX，可以为任何代币创建流动性
+
+<a href="https://docs.gtokentool.com/ton-jiao-cheng/tonkeeper-qian-bao-an-zhuang-jiao-cheng">Tonkeeper安装教程</a>：Tonkeeper是TON链上最流行的钱包之一，发币前必须安装
+
+<a href="https://docs.gtokentool.com/ton-jiao-cheng/ton-suo-chi-ping-tai-tonraffles-shi-yong-jiao-cheng">Tonraffles锁池教程</a>：tonraffles是TON链知名的锁池/锁仓平台
+
+# Sui链一键发币
+
+<a href="https://sui.gtokentool.com">Sui发币官网</a>：全网最强的Sui一键发币平台，支持快速创建代币
+
+<a href="https://docs.gtokentool.com/sui/token-creation">Sui发币教程</a>：全网最详细的Sui发币教程，一分钟教会你在Sui区块链发币
+
+<a href="https://docs.gtokentool.com/sui/revoke-authority">Sui链放弃权限教程</a>：Sui代币放弃权限操作
+
+<a href="https://docs.gtokentool.com/sui/update-token">Sui代币管理教程</a>：学会使用PandaTool工具增发Sui代币
