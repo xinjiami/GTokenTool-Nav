@@ -117,6 +117,28 @@ Sui一键发币：https://sui.gtokentool.com/
 
 <a href="https://sol.gtokentool.com/zh-CN/liquidityManagement/createMarket">创建市场 ID</a>：OpenBook 创建市场 ID | 低费用创建市场 ID 工具
 
-<a href="https://sol.gtokentool.com/zh-CN/liquidityManagement/searchId">查询市场 ID：查询市场 ID | OpenBook 市场 ID 查询工具
+<a href="https://sol.gtokentool.com/zh-CN/liquidityManagement/searchId">查询市场 ID</a>：查询市场 ID | OpenBook 市场 ID 查询工具
 
 <a href="https://sol.gtokentool.com/zh-CN/liquidityManagement/batchRemove">批量移除流动性</a>：批量移除流动性 | PumpSwap 流动性管理
+
+# 锁
+
+<a href="https://sol.gtokentool.com/zh-CN/locks/createLock">创建锁</a>：创建锁 | 锁定代币 & LP
+
+<a href="https://sol.gtokentool.com/zh-CN/locks/managementLock">管理锁</a>：管理锁 | 解锁代币 & LP
+
+# FOUR 专区
+
+<a href="https://www.gtokentool.com/bundle">FOUR 创建并捆绑买入</a>：FOUR 创建并捆绑买入 | 抢占底部筹码
+
+<a href="https://www.gtokentool.com/FourSell">FOUR 一键卖出</a>：FOUR 一键卖出 | 多地址快速交易
+
+# 蝴蝶内盘
+
+<a href="https://www.gtokentool.com/flap">蝴蝶创建并捆绑买入</a>：蝴蝶创建并捆绑买入 | 抢占底部筹码
+
+# 创建 IDO
+
+<a href="https://www.gtokentool.com/idov2">创建 IDO</a>：创建 IDO | 私募预售
+
+<a href="https://www.gtokentool.com/idov2/list">管理 IDO</a>：管理 IDO | 高效管理
